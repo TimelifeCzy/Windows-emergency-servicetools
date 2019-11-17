@@ -1,5 +1,5 @@
-# windows-应急服务工具
-windows下一款可视化，一键检测的应急服务工具，生成采集、关联报告。
+# windows-应急服务辅助工具
+windows下一款可视化，一键检测辅助应急工具，生成数据采集、关联报告。
 
 ![image](https://github.com/TimelifeCzy/windows-emergency-servicetools/blob/master/1.jpg)
 
