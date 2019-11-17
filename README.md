@@ -1,7 +1,7 @@
 # windows-应急服务工具
 windows下一款可视化，一键检测的应急服务工具，生成采集、关联报告。
 
-![image]https://github.com/TimelifeCzy/windows-emergency-servicetools/blob/master/1.jpg
+![image](https://github.com/TimelifeCzy/windows-emergency-servicetools/blob/master/1.jpg)
 
 #### 关联分析：规则链
 &emsp;&emsp;1. 自启动 --> 进程 pid --> 网络端口 --> 本地文件
