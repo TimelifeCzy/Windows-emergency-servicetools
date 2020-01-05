@@ -11,3 +11,7 @@ windows下一款可视化，一键检测辅助应急工具，生成数据采集�
 **这是一种基于数据采集，组织规则关联分析或说模糊匹配，而并不是针对病毒查杀工具，后续待更。** 
 
 内存取证辅助分析工具后续也会更新：https://github.com/TimelifeCzy/Windows-Monitor-and-Memory-forensics
+
+
+**该工具思路讲解描述：**
+https://bbs.pediy.com/thread-256740.htm
