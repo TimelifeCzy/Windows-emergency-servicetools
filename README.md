@@ -12,5 +12,3 @@ windows下一款可视化，一键检测辅助应急工具，生成数据采集�
 
 **工具思路讲解：**
 https://bbs.pediy.com/thread-256740.htm
-
-内存取证辅助分析工具后续也会更新：https://github.com/TimelifeCzy/Windows-Monitor-and-Memory-forensics
