@@ -1,4 +1,6 @@
 # Windows-应急服务辅助工具
+**它已经被集成到新项目中，会引入更多的功能：https://github.com/theSecHunter**
+
 Windows下一款可视化，一键检测辅助应急工具，生成数据采集、关联报告。
 
 ![image](https://github.com/TimelifeCzy/windows-emergency-servicetools/blob/master/1.jpg)
@@ -11,4 +13,3 @@ Windows下一款可视化，一键检测辅助应急工具，生成数据采集�
 **这是一种基于数据采集，组织规则关联分析或说模糊匹配，而并不是针对病毒查杀工具，后续待更。** 
 **测试环境: Win7~Win10**
 
-**它已经被集成到新项目中，会引入更多的功能：https://github.com/theSecHunter**
